@@ -1,7 +1,5 @@
 # Milliel_Launcher-Control-System
 
-# ESP32 Auto / Manual Turret Control System
-
 A dual-ESP32 control system with **Auto Mode**, **Manual Mode**, and **Setup Mode**.  
 The receiver ESP32 handles ultrasonic detection, servos, relay, and setup control.  
 The transmitter ESP32 handles mode switching, manual aiming, and manual shooting.
