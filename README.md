@@ -179,5 +179,5 @@ This project is open-source. You can add your preferred license here.
 ## Contact
 For any questions or support:
 - **WhatsApp:** +8801730288553  
-- **Email:** riyadhasan24a@gmail.com  
+- **Email:** rh30288553@gmail.com  
 - **GitHub:** github.com/riyadhasan24
